@@ -66,6 +66,13 @@
 		background-color: #005883;
 	}
 
+	div#Contador{
+		float: right;
+		margin-top: -125px;
+		margin-right: 5px;
+		color: white;
+	}
+
 	div#Sellos{
 		float: left;
 		margin-top: 2px;
