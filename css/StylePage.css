@@ -8,19 +8,21 @@
 	div#General{
 		margin: auto;
 		background-color: #005883;
-		height: 740px;
+		height: 855px;
 		border-bottom-style: solid;
 		border-color: #f0B429;
+		border-radius: 5px;
 	}
 
 	div#Main{
 		margin: auto;
-		width: 1095px;
-		height: 480px;
+		width: 1096px;
+		height: 585px;
 		background-color: #F47920;
 		border-style: solid;
 		border-color: #F47920;
 		color: white;
+		border-radius: 5px;
 	}
 
 	div#Introduccion{
@@ -41,8 +43,6 @@
 	}
 
 	div#Twitter{
-		margin-right: 15px;
-		margin-left: 15px;
 		height: 385px;
 	}
 
@@ -53,8 +53,9 @@
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 		float: left;
 		width: 673px;
-		height: 475px;
+		height: 580px;
 		background-color: #005883;
+		border-radius: 5px;
 	}
 	div#Contenido2{
 		margin-top: 2px;
@@ -62,8 +63,9 @@
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 		float: left;
 		width: 412px;
-		height: 475px;
+		height: 580px;
 		background-color: #005883;
+		border-radius: 5px;
 	}
 
 	div#Contador{
