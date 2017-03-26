@@ -8,9 +8,8 @@
 	}
 
 	div#General{
-		margin: auto;
 		background-color: #005883;
-		height: 855px;
+		height: 910px;
 		border-bottom-style: solid;
 		border-color: #f0B429;
 		border-radius: 5px;
@@ -18,13 +17,17 @@
 
 	div#Main{
 		margin: auto;
-		width: 1096px;
-		height: 585px;
+		width: 1097px;
+		height: 642px;
 		background-color: #F47920;
 		border-style: solid;
 		border-color: #F47920;
 		color: white;
 		border-radius: 5px;
+	}
+
+	div#TextoTitulo{
+		margin-top: -36px;
 	}
 
 	div#Introduccion{
@@ -55,31 +58,44 @@
 		height: 385px;
 	}
 
-	div#Contenido{
-		margin-top: 2px;
-		margin-bottom: 2px;
+	div#Contenido4{
+		margin-top: 1px;
 		margin-left: 2px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 		float: left;
-		width: 544px;
+		width: 1087px;
+		height: 45px;
+		background-color: #005883;
+		border-radius: 5px;
+		border-style: solid;
+		border-color: #f0B429;
+	}
+
+	div#Contenido{
+		margin-top: 5px;
+		margin-bottom: 2px;
+		margin-left: 3px;
+		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
+		float: left;
+		width: 543px;
 		height: 490px;
 		background-color: #005883;
 		border-radius: 5px;
 	}
 
 	div#Contenido2{
-		margin-top: 2px;
+		margin-top: 5px;
 		margin-left: 5px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 		float: left;
-		width: 544px;
+		width: 543px;
 		height: 490px;
 		background-color: #005883;
 		border-radius: 5px;
 	}
 
 	div#Contenido3{
-		margin-top: 2px;
+		margin-top: 3px;
 		margin-left: 2px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 		float: left;
@@ -107,7 +123,7 @@
 		float: left;
 	}
 
-	#Titulo{
+	div#Titulo{
 		font-family: Angsana New, Angsana New Bold, Arial;
 		color: white;
 		width: 1100px;
@@ -115,9 +131,9 @@
 		height: 130PX;
 	}
 
-	#header{	
+	div#header{	
 		margin: auto;
-		width: 1182px;
+		width: 1187px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 	}
 
@@ -129,7 +145,7 @@
 		background-color: #F47920;
 		color: white;
 		text-decoration: none;
-		padding: 9px 80px;
+		padding: 9px 82px;
 		display: block;
 		margin-bottom: 1px;
 		margin-right: 1px;

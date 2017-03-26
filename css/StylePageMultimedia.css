@@ -9,7 +9,7 @@
 
 	div#General{
 		background-color: #005883;
-		height: 910px;
+		height: 890px;
 		border-bottom-style: solid;
 		border-color: #f0B429;
 		border-radius: 5px;
@@ -18,7 +18,7 @@
 	div#Main{
 		margin: auto;
 		width: 1097px;
-		height: 639px;
+		height: 624px;
 		background-color: #F47920;
 		border-style: solid;
 		border-color: #F47920;
@@ -35,6 +35,13 @@
 		margin-right: 30px;
 		margin-left: 30px;
 		margin-top: 10px;
+	}
+
+	div#Recomendaciones{
+		margin-bottom: 30px;
+		margin-right: 30px;
+		margin-left: 30px;
+		margin-top: 7px;
 	}
 
 	div#Footer{
@@ -70,18 +77,19 @@
 		margin-left: 3px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 		float: left;
-		width: 673px;
-		height: 580px;
+		width: 1090px;
+		height: 490px;
 		background-color: #005883;
 		border-radius: 5px;
 	}
-	div#Contenido2{
-		margin-top: 5px;
-		margin-left: 6px;
+
+	div#Contenido3{
+		margin-top: 3px;
+		margin-left: 2px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 		float: left;
-		width: 412px;
-		height: 580px;
+		width: 1092px;
+		height: 70px;
 		background-color: #005883;
 		border-radius: 5px;
 	}
@@ -104,7 +112,7 @@
 		float: left;
 	}
 
-	#Titulo{
+	div#Titulo{
 		font-family: Angsana New, Angsana New Bold, Arial;
 		color: white;
 		width: 1100px;
@@ -112,7 +120,7 @@
 		height: 130PX;
 	}
 
-	#header{	
+	div#header{	
 		margin: auto;
 		width: 1187px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
